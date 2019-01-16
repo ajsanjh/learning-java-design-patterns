@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="creational"/>
+	<classpathentry kind="src" path="structural"/>
+	<classpathentry kind="src" path="behavioral"/>
+	<classpathentry kind="src" path="rough"/>
+	<classpathentry kind="lib" path="lib/lombok.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/spring-messaging-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-statemachine-core-2.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-dao-2.0.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
